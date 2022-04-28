@@ -39,7 +39,7 @@ page_sections:
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    button_text: Contact Us
   image:
     image: "/uploads/2022/04/28/valorlogocrop.png"
     alt_text: Product Shot
